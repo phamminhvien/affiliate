@@ -1,0 +1,48 @@
+[
+    {
+        "ClientIsn": 285491,
+        "ClientType": 0,
+        "Logs": [
+            {
+                "ISN": 0,
+                "ClientIsn": 285491,
+                "ClientId": null,
+                "FirstName": "Channey",
+                "LastName": "Palmer",
+                "Last4SSN": "1734",
+                "ClientType": 0,
+                "UpdatedDate": "0001-01-01T00:00:00",
+                "UpdatedByName": null,
+                "UpdatedByIsn": 41457,
+                "AddedDate": "0001-01-01T00:00:00",
+                "IPSubmit": "192.168.20.11",
+                "SubmitSite": "https://www.lendingserve.com/admin",
+                "StatusText": "Failed (No credit data.)",
+                "SubmitCount": 1,
+                "Agency": null,
+                "DateSubmit": "2023-07-28T14:47:41.368",
+                "TextLog": "[2023-07-28 14:47:41.368] [PullHartSWProvider.WiteLogToDB] {\"ISN\":0,\"ClientIsn\":285491,\"ClientId\":null,\"FirstName\":\"Channey\",\"LastName\":\"Palmer\",\"Last4SSN\":\"1734\",\"ClientType\":0,\"UpdatedDate\":\"0001-01-01T00:00:00\",\"UpdatedByName\":null,\"UpdatedByIsn\":41457,\"AddedDate\":\"0001-01-01T00:00:00\",\"IPSubmit\":\"192.168.20.11\",\"SubmitSite\":\"https://www.lendingserve.com/admin\",\"StatusText\":\"Failed (No credit data.)\",\"SubmitCount\":1,\"Agency\":null}"
+            },
+            {
+                "ISN": 0,
+                "ClientIsn": 285491,
+                "ClientId": null,
+                "FirstName": "Channey",
+                "LastName": "Palmer",
+                "Last4SSN": "1774",
+                "ClientType": 0,
+                "UpdatedDate": "0001-01-01T00:00:00",
+                "UpdatedByName": null,
+                "UpdatedByIsn": 41457,
+                "AddedDate": "0001-01-01T00:00:00",
+                "IPSubmit": "192.168.20.11",
+                "SubmitSite": "https://www.lendingserve.com/admin",
+                "StatusText": "Failed (No credit data.)",
+                "SubmitCount": 1,
+                "Agency": null,
+                "DateSubmit": "2023-07-28T14:47:01.757",
+                "TextLog": "[2023-07-28 14:47:01.757] [PullHartSWProvider.WiteLogToDB] {\"ISN\":0,\"ClientIsn\":285491,\"ClientId\":null,\"FirstName\":\"Channey\",\"LastName\":\"Palmer\",\"Last4SSN\":\"1774\",\"ClientType\":0,\"UpdatedDate\":\"0001-01-01T00:00:00\",\"UpdatedByName\":null,\"UpdatedByIsn\":41457,\"AddedDate\":\"0001-01-01T00:00:00\",\"IPSubmit\":\"192.168.20.11\",\"SubmitSite\":\"https://www.lendingserve.com/admin\",\"StatusText\":\"Failed (No credit data.)\",\"SubmitCount\":1,\"Agency\":null}"
+            }
+        ]
+    }
+]
